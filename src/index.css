@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+--bg: #0f172a;
+--card: #0b1220;
+}
+
+
+body { @apply bg-slate-50 text-slate-800 }
+
